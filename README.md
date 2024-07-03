@@ -18,7 +18,7 @@ The project aims to provide a comprehensive analysis of T20 World Cup cricket da
 
 ## Data Collection
 
-Web scraping is performed to collect T20 World Cup cricket data from the ESPN Cricinfo website. The `web_scrapping_codes` file contains the code for this step.
+Used bright data web scraping to collect T20 World Cup cricket data from the ESPN Cricinfo website. The `web_scrapping_codes` file contains the code for this step.
 
 ## Data Preprocessing
 
